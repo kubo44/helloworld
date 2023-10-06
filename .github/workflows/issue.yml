@@ -1,5 +1,5 @@
 name: issue
-on: issue
+on: issues
 jobs:
   start_tests:
         runs-on: ubuntu-latest
