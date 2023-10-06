@@ -1,4 +1,4 @@
-name: build
+name: issue
 on: issue
 jobs:
   start_tests:
